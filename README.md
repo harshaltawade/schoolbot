@@ -1,4 +1,3 @@
-# schoolbot
 
 # Future Ready Talent Project
 
@@ -41,6 +40,7 @@ Azure Static Web Apps is service that automatically builds and deploys full stac
 
 https://myschoolwebsite.z13.web.core.windows.net/
 
+https://harshaltawade.github.io/schoolbot/
 
 # Project Demo link :
 
