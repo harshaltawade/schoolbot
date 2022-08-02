@@ -40,9 +40,9 @@ Azure Static Web Apps is service that automatically builds and deploys full stac
   
   2.Go to ChatBot
   
-  3. Type and enter your Query
+  3.Type and enter your Query
   
-  4. You will get appropriate solution for your query.
+  4.You will get appropriate solution for your query.
  
 
 # Project Link/URL : 
